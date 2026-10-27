@@ -1,6 +1,6 @@
 # Childhood Maltreatment and Brain Centiles
 
-This repository contains the analysis code for the study Mohn, J.J. et al. (2026). Maltreatment Predicts Centiles of Individual Variation from Normative Brain Growth in Children. Communications Biology. https://doi.org/10.1038/s42003-026-11143-6  
+This repository contains the analysis code for the study Mohn, J.J. et al. (2026). Maltreatment predicts centiles of individual variation from normative brain growth in children. Communications Biology. https://doi.org/10.1038/s42003-026-11143-6  
 
 **Contact:** Johannes Julius Mohn ([johannes.j.mohn@maxplanckschools.de](mailto:johannes.j.mohn@maxplanckschools.de))
 
